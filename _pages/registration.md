@@ -13,8 +13,8 @@ PhD students, post-doctoral students with the appropriate background and interes
 
 ### Key Dates
 
-Registration will be open on [] and end on [].
+Registration has been opened and will end on **Jun 16, 2023**.
 
-### Registration link
+### Register Your Interests
 
-Please follow this link to register.
+Please follow this [link](https://forms.gle/aG2cSdGvCZYtTscE8) to register your interests for the hackathon.
