@@ -2,10 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Knowledge Engineering Hackathon # the website title (if blank, full name will be used instead)
-# first_name: Knowledge Engineering
-# middle_name: 
-# last_name: Hackathon
+title: Knowledge Prompting Hackathon # the website title (if blank, full name will be used instead)
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
@@ -18,7 +15,7 @@ icon: 💻  # the emoji used as the favicon (alternatively, provide image name i
 # For project pages:
 # In _config.yml, set url to https://<your-github-username>.github.io and baseurl to /<your-repository-name>/.
 url: https://king-s-knowledge-graph-lab.github.io # the base hostname & protocol for your site
-baseurl: /knowledge-engineering-hackathon/ # the subpath of your site, e.g. /blog/
+baseurl: /knowledge-prompting-hackathon/ # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 

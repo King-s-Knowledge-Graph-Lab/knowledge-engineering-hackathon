@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
     <h4> Research Hackathon on Knowledge Engineering and Prompt Engineering <h4>
-    <h4> <strong>August 07 - 10, London, UK<strong> <h4>
+    <h4> <strong>August 07 - 10, 2023, London, UK<strong> <h4>
 
 
 profile:
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-> **News:** Registration is open now. Please follow this [form](https://forms.gle/aG2cSdGvCZYtTscE8) to register your interests for the hackathon. The registration and payment deadline will be <b>June 30th AOE</b>. 
+> **News:** Registration is open now. Please follow this [form](https://forms.gle/aG2cSdGvCZYtTscE8) to register your interests for the hackathon. The registration and payment deadline will be <b>June 26th AOE</b>. 
 
 ## About the Hackathon
 
@@ -38,12 +38,15 @@ Places are limited to around 30 participants. While we expect this will be of in
 ## Preliminary Agenda
 
 This agenda is subject to change.
-- Day 1 AM: intro to challenges, mentorship and support available, invited talk, initial meeting with mentor.
-- Day 1 PM: research design, meeting with mentor.
-- Day 2 AM/PM: standup AM, research execution, invited talk late afternoon, two check-ins with mentor. 
-- Day 3 AM/PM: standup AM, research execution + paper draft, two check-ins with mentor.
-- Day 4 AM: presentations by groups, prizes. 
-- Day 4 PM (optional): social event e.g. visit to Bletchley Park, Natural Science Museum etc.
+- **Day 1, Aug 07, MON** 
+  - **AM:** intro to challenges, mentorship and support available, invited talk, initial meeting with mentor.
+  - **PM:** research design, meeting with mentor.
+- **Day 2, Aug 08, TUE** 
+  - **AM/PM:** standup AM, research execution, invited talk late afternoon, two check-ins with mentor. 
+- **Day 3, Aug 09, WED** 
+  - **AM/PM:** standup AM, research execution + paper draft, two check-ins with mentor.
+- **Day 4, Aug 10, THU** 
+  - **AM:** presentations by groups, prizes. 
 
 &nbsp;
 
@@ -59,7 +62,8 @@ This agenda is subject to change.
 </div>
 
 Hackathon back office:
-- Preksha Patel: preksha.patel@kcl.ac.uk
+- Preksha Patel: `preksha.patel@kcl.ac.uk` 
+- Bohui Zhang: `bohui.zhang@kcl.ac.uk` 
 
 &nbsp;
 
@@ -69,7 +73,7 @@ Hackathon back office:
 - If accepted to the event, you will have to register to the event.
   - For participants who do not require accommodation, attendance will be £99.
   - For participants who want to take advantage of pre-booked accommodation in London, the fee will be …
-  - The registration and payment deadline will be <b>June 30th AOE</b>.
+  - The registration and payment deadline will be <b>June 26th AOE</b>.
 
 &nbsp;
 
@@ -77,7 +81,7 @@ Hackathon back office:
 
 This event is supported by a range of research programmes and is co-funded by the [interest group on knowledge graphs at the Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
-For sponsorship opportunities, please contact Preksha.
+For sponsorship opportunities, please contact Preksha: `preksha.patel@kcl.ac.uk`.
 
 &nbsp;
 
