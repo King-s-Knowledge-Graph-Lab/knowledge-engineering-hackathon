@@ -72,7 +72,7 @@ Hackathon back office:
 - The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by this date.
 - If accepted to the event, you will have to register to the event.
   - For participants who do not require accommodation, attendance will be £99.
-  - For participants who want to take advantage of pre-booked accommodation in London, the fee will be …
+  - For participants who want to take advantage of pre-booked accommodation in London, the fee will be £399.
   - The registration and payment deadline will be <b>June 26th AOE</b>.
 
 &nbsp;
