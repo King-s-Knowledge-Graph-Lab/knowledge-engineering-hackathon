@@ -1,6 +1,6 @@
 # Knowledge Engineering Research Hackathon
 
-Webpage for Knowledge Engineering Research Hackathon from 08 Aug to 11 Aug, 2023 in London, UK.
+Webpage for Knowledge Engineering Research Hackathon from 07 Aug to 10 Aug, 2023 in London, UK.
 
 ## Reference to the template
 
