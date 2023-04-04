@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-> Attendance is invitation only. You must register your interest and may attend if your application is accepted. Please follow this [form](https://forms.gle/aG2cSdGvCZYtTscE8) to register your interests for the hackathon. The registration and payment deadline will be <b>June 26th AOE</b>.
+> **News:** You can register your expression of interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 19th AOE</b>. Once the organisers confirm your attendance to the event, you will be asked to confirm your attendance and pay the hackathon fee no later than <b>June 26th AOE</b>.
 
 ### Main Venue
 

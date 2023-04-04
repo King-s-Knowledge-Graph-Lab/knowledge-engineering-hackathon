@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-> **News:** Registration is open now. Please follow this [form](https://forms.gle/aG2cSdGvCZYtTscE8) to register your interests for the hackathon. The registration and payment deadline will be <b>June 26th AOE</b>. 
+> **News:** You can register your expression of interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 19th AOE</b>. Once the organisers confirm your attendance to the event, you will be asked to confirm your attendance and pay the hackathon fee no later than <b>June 26th AOE</b>. 
 
 ## About the Hackathon
 
@@ -33,20 +33,22 @@ Participating teams will choose from among a series of curated topics, which inc
 
 Places are limited to around 30 participants. While we expect this will be of interest to graduate students or postdocs, we welcome anyone with practical, hands-on experience in applying technologies such as prompt engineering, ontology engineering, and information extraction.
 
+This hackathon came out of discussions at the Dagstuhl Seminar on "Knowledge Graphs and their Role in the Knowledge Engineering of the 21st Century" held in September 2022. The report of this seminar is available [here](https://drops.dagstuhl.de/opus/volltexte/2023/17810/). 
+
 &nbsp;
 
 ## Preliminary Agenda
 
 This agenda is subject to change.
 - **Day 1, Aug 07, MON** 
-  - **AM:** intro to challenges, mentorship and support available, invited talk, initial meeting with mentor.
-  - **PM:** research design, meeting with mentor.
+  - **PM:** intro to challenges, mentorship and support available, invited talk, initial meeting with mentor, research design.
 - **Day 2, Aug 08, TUE** 
   - **AM/PM:** standup AM, research execution, invited talk late afternoon, two check-ins with mentor. 
 - **Day 3, Aug 09, WED** 
   - **AM/PM:** standup AM, research execution + paper draft, two check-ins with mentor.
 - **Day 4, Aug 10, THU** 
-  - **AM:** presentations by groups, prizes. 
+  - **AM:** prepare the presentations
+  - **PM:** presentations by groups, prizes. 
 
 &nbsp;
 
@@ -61,7 +63,14 @@ This agenda is subject to change.
   {% include people_horizontal.html name="Albert Meroño Peñuela" affiliation="King’s College London, UK" url="https://www.kcl.ac.uk/people/albert-merono-penuela-1" img="assets/img/albert.jpg" %}
 </div>
 
-Hackathon back office:
+### Hackathon Back Office
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Preksha Patel" affiliation="King's College London, UK" url="" img="assets/img/preksha.jpg" %}
+  {% include people_horizontal.html name="Bohui Zhang" affiliation="King's College London, UK" url="https://bohuizhang.github.io/" img="assets/img/bohui.jpg" %}
+</div>
+
+#### Contact Information
+
 - Preksha Patel: `preksha.patel@kcl.ac.uk` 
 - Bohui Zhang: `bohui.zhang@kcl.ac.uk` 
 
@@ -69,11 +78,11 @@ Hackathon back office:
 
 ## Attendance
 
-- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by this date.
-- If accepted to the event, you will have to register to the event.
+- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by by <b>May 19th AOE</b>.
+- If accepted to the event, you will be asked to confirm registrations and pay a fee:
   - For participants who do not require accommodation, attendance will be £99.
   - For participants who want to take advantage of pre-booked accommodation in London, the fee will be £399.
-  - The registration and payment deadline will be <b>June 26th AOE</b>.
+  - The deadline for confirming attendance and paying the fee will be <b>June 26th AOE</b>.
 
 &nbsp;
 
