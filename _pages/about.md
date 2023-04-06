@@ -78,7 +78,7 @@ This agenda is subject to change.
 
 ## Attendance
 
-- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by by <b>May 19th AOE</b>.
+- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 19th AOE</b>.
 - If accepted to the event, you will be asked to confirm registrations and pay a fee:
   - For participants who do not require accommodation, attendance will be £99.
   - For participants who want to take advantage of pre-booked accommodation in London, the fee will be £459.
