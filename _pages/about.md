@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-> **News:** You can register your expression of interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 19th AOE</b>. Once the organisers confirm your attendance to the event, you will be asked to pay the hackathon fee no later than <b>June 26th AOE</b>. 
+> **News:** You can register your expression of interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 29th AOE</b>. Once the organisers confirm your attendance to the event, you will be asked to pay the hackathon fee no later than <b>June 26th AOE</b>. 
 
 ## About the Hackathon
 
@@ -78,7 +78,7 @@ This agenda is subject to change.
 
 ## Attendance
 
-- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 19th AOE</b>.
+- The event is invitation only. You will need to register your interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 29th AOE</b>.
 - If accepted to the event, you will be asked to confirm registrations and pay a fee:
   - For participants who do not require accommodation, attendance will be £99.
   - For participants who want to take advantage of pre-booked accommodation in London, the fee will be £459.
