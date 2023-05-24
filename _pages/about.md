@@ -65,7 +65,7 @@ This agenda is subject to change.
 
 ### Hackathon Back Office
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Preksha Patel" affiliation="King's College London, UK" url="" img="assets/img/preksha.jpg" %}
+  {% include people_horizontal.html name="Preksha Patel" affiliation="King's College London, UK" img="assets/img/preksha.jpg" %}
   {% include people_horizontal.html name="Bohui Zhang" affiliation="King's College London, UK" url="https://bohuizhang.github.io/" img="assets/img/bohui.jpg" %}
 </div>
 
@@ -90,7 +90,14 @@ This agenda is subject to change.
 
 This event is supported by a range of research programmes and is co-funded by the [interest group on knowledge graphs at the Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
-For sponsorship opportunities, please contact Preksha: `preksha.patel@kcl.ac.uk`.
+| **Package**{: .h6} | **Contents**{: .h6} | **Price**{: .h6} |
+| :-----: | ----- | :-----: |
+| Bronze | Your logo on: <br/>&nbsp;&nbsp;•&nbsp;&nbsp;The website<br/>&nbsp;&nbsp;•&nbsp;&nbsp;The opening and closing slides | £500 |
+| Silver | All included in the Bronze package, plus: <br/>&nbsp;&nbsp;•&nbsp;&nbsp;Promotion of your tools and technology during the hackathon | £1000 |
+| Gold | All included in the Bronze and Silver packages, plus: <br/>&nbsp;&nbsp;•&nbsp;&nbsp;Send 1 person from your organisation to the event <br/>&nbsp;&nbsp;•&nbsp;&nbsp;Sponsorship of best student project award | £2000 |
+| Custom | Various options on request <br/> We also welcome in-kind sponsorships, in the form of computational resources, API access to knowledge graphs, LLMs, etc. Please do get in touch with `preksha.patel@kcl.ac.uk` and `albert.merono@kcl.ac.uk` to discuss options. | TBD |
+{: .table}
+{: .table-striped}
 
 &nbsp;
 
