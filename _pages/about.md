@@ -102,5 +102,29 @@ This event is supported by a range of research programmes and is co-funded by th
 &nbsp;
 
 <p style="text-align:center;">
-  <img class="img-fluid" src="{{ 'logo.png' | prepend: '/assets/img/' | relative_url }}" width="100%">
+  <a href="https://www.kcl.ac.uk/">
+    <img class="img-fluid" src="{{ 'kcl_logo.png' | prepend: '/assets/img/' | relative_url }}" width="30%">
+  </a>
+  <a href="https://polifonia-project.eu/">
+    <img class="img-fluid" src="{{ 'polifonia_logo.jpg' | prepend: '/assets/img/' | relative_url }}" width="23%">
+  </a>
+  <a href="https://www.muse-it.eu/">
+    <img class="img-fluid" src="{{ 'museit_logo.jpg' | prepend: '/assets/img/' | relative_url }}" width="30%">
+  </a>
+</p>
+<p style="text-align:center;">
+  <a href="https://enexa.eu/">
+    <img class="img-fluid" src="{{ 'enexa_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+  </a>
+  <a href="https://www.turing.ac.uk/">
+    <img class="img-fluid" src="{{ 'alan_turing_institute_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+  </a>
+</p>
+<p style="text-align:center;">
+  <a href="https://metaphacts.com/">
+    <img class="img-fluid" src="{{ 'metaphacts_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+  </a>
+  <a href="https://datalanguage.com/">
+    <img class="img-fluid" src="{{ 'dl_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+  </a>
 </p>
