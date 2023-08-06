@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-> **News:** You can register your expression of interest via this [form](https://forms.gle/aG2cSdGvCZYtTscE8) by <b>May 29th AOE</b>. Once the organisers confirm your attendance to the event, you will be asked to pay the hackathon fee no later than <b>June 26th AOE</b>.
+> **News:** Our [agenda](https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/agenda) has been released!
 
 ### Main Venue
 
