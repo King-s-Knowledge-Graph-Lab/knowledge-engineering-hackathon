@@ -80,18 +80,18 @@ This hackathon came out of discussions at the Dagstuhl Seminar on "Knowledge Gra
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Elena Simperl" affiliation="King's College London, UK" url="https://www.kcl.ac.uk/people/elena-simperl" img="assets/img/elena.jpg" %}
-  {% include people_horizontal.html name="Paul Groth" affiliation="University of Amsterdam, NL" url="https://www.uva.nl/en/profile/g/r/p.t.groth/p.t.groth.html" img="assets/img/paul.jpg" %}
-  {% include people_horizontal.html name="Oscar Corcho" affiliation="Universidad Politécnica de Madrid, ES" url="https://oeg.fi.upm.es/index.php/en/teachers/11-ocorcho/index.html" img="assets/img/oscar.jpg" %}
-  {% include people_horizontal.html name="Marta Sabou" affiliation="Vienna University of Economics and Business, AT" url="https://www.wu.ac.at/en/dpkm/team/sabou-marta/" img="assets/img/marta.jpg" %}
-  {% include people_horizontal.html name="Valentina Presutti" affiliation="University of Bologna, IT" url="https://www.unibo.it/sitoweb/valentina.presutti" img="assets/img/valentina.jpg" %}
-  {% include people_horizontal.html name="Albert Meroño Peñuela" affiliation="King’s College London, UK" url="https://www.kcl.ac.uk/people/albert-merono-penuela-1" img="assets/img/albert.jpg" %}
+  {% include people_horizontal.html name="Elena Simperl" affiliation="King's College London, UK" url="https://www.kcl.ac.uk/people/elena-simperl" img="assets/img/organizers/elena.jpg" %}
+  {% include people_horizontal.html name="Paul Groth" affiliation="University of Amsterdam, NL" url="https://www.uva.nl/en/profile/g/r/p.t.groth/p.t.groth.html" img="assets/img/organizers/paul.jpg" %}
+  {% include people_horizontal.html name="Oscar Corcho" affiliation="Universidad Politécnica de Madrid, ES" url="https://oeg.fi.upm.es/index.php/en/teachers/11-ocorcho/index.html" img="assets/img/organizers/oscar.jpg" %}
+  {% include people_horizontal.html name="Marta Sabou" affiliation="Vienna University of Economics and Business, AT" url="https://www.wu.ac.at/en/dpkm/team/sabou-marta/" img="assets/img/organizers/marta.jpg" %}
+  {% include people_horizontal.html name="Valentina Presutti" affiliation="University of Bologna, IT" url="https://www.unibo.it/sitoweb/valentina.presutti" img="assets/img/organizers/valentina.jpg" %}
+  {% include people_horizontal.html name="Albert Meroño Peñuela" affiliation="King’s College London, UK" url="https://www.kcl.ac.uk/people/albert-merono-penuela-1" img="assets/img/organizers/albert.jpg" %}
 </div>
 
 ### Hackathon Back Office
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Preksha Patel" affiliation="King's College London, UK" img="assets/img/preksha.jpg" %}
-  {% include people_horizontal.html name="Bohui Zhang" affiliation="King's College London, UK" url="https://bohuizhang.github.io/" img="assets/img/bohui.jpg" %}
+  {% include people_horizontal.html name="Preksha Patel" affiliation="King's College London, UK" img="assets/img/organizers/preksha.jpg" %}
+  {% include people_horizontal.html name="Bohui Zhang" affiliation="King's College London, UK" url="https://bohuizhang.github.io/" img="assets/img/organizers/bohui.jpg" %}
 </div>
 
 #### Contact Information
@@ -128,28 +128,28 @@ This event is supported by a range of research programmes and is co-funded by th
 
 <p style="text-align:center;">
   <a href="https://www.kcl.ac.uk/">
-    <img class="img-logo" src="{{ 'kcl_logo.png' | prepend: '/assets/img/' | relative_url }}" width="30%">
+    <img class="img-logo" src="{{ 'kcl_logo.png' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="30%">
   </a>
   <a href="https://polifonia-project.eu/">
-    <img class="img-logo" src="{{ 'polifonia_logo.jpg' | prepend: '/assets/img/' | relative_url }}" width="23%">
+    <img class="img-logo" src="{{ 'polifonia_logo.jpg' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="23%">
   </a>
   <a href="https://www.muse-it.eu/">
-    <img class="img-logo" src="{{ 'museit_logo.jpg' | prepend: '/assets/img/' | relative_url }}" width="30%">
+    <img class="img-logo" src="{{ 'museit_logo.jpg' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="30%">
   </a>
 </p>
 <p style="text-align:center;">
   <a href="https://enexa.eu/">
-    <img class="img-logo" src="{{ 'enexa_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+    <img class="img-logo" src="{{ 'enexa_logo.png' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="45%">
   </a>
   <a href="https://www.turing.ac.uk/">
-    <img class="img-logo" src="{{ 'alan_turing_institute_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+    <img class="img-logo" src="{{ 'alan_turing_institute_logo.png' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="45%">
   </a>
 </p>
 <p style="text-align:center;">
   <a href="https://metaphacts.com/">
-    <img class="img-logo" src="{{ 'metaphacts_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+    <img class="img-logo" src="{{ 'metaphacts_logo.png' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="45%">
   </a>
   <a href="https://datalanguage.com/">
-    <img class="img-logo" src="{{ 'dl_logo.png' | prepend: '/assets/img/' | relative_url }}" width="45%">
+    <img class="img-logo" src="{{ 'dl_logo.png' | prepend: '/assets/img/sponsorship/' | relative_url }}" width="45%">
   </a>
 </p>
