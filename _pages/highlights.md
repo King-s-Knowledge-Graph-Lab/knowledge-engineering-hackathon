@@ -25,7 +25,6 @@ nav_order: 4
   <img class="img-highlights" src="{{ 'group-work-c.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="32.5%">
   <img class="img-highlights" src="{{ 'group-work-h-1.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="32.5%">
   <img class="img-highlights" src="{{ 'group-work-h-2.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="32.5%">
-  <!-- <b>Group H</b> is working on "<b>What do foundational models know?</b>".<br> -->
 </p>
 
 ## Coffee Break
@@ -47,8 +46,8 @@ nav_order: 4
   <img class="img-highlights" src="{{ 'presentation-group-c-2.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="49%">
   <img class="img-highlights" src="{{ 'presentation-group-c-1.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="49%">
   Group C presenting their work on <b>recreating ontologies</b>.<br>
-  <img class="img-highlights" src="{{ 'presentation-group-e.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="98.5%">
-  Group E presenting their work on <b>ontology alignment</b>.<br>
+  <!-- <img class="img-highlights" src="{{ 'presentation-group-e.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="98.5%">
+  Group E presenting their work on <b>ontology alignment</b>.<br> -->
   <img class="img-highlights" src="{{ 'presentation-group-photo.jpg' | prepend: '/assets/img/highlights/' | relative_url }}" width="98.5%">
 </p>
 
